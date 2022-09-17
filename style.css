@@ -1,0 +1,15 @@
+* {
+    transition: all 300ms all;
+}
+
+.black-theme{
+    background-color: black;
+}
+
+.black-theme * {
+    color: white;
+}
+
+.black-theme button{
+    background-color: blueviolet;
+}
